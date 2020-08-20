@@ -17,8 +17,8 @@ var Apratim_Ray = {
 	code: [Python, JS, HTML, CSS, GO],
 	tools: [VScode, Jupyter, Node, REAPER, Conda, PyPy],
 	intrest:["Design Encryption and Hash algorithm",
-			 "Algorithm Optimization",
-			 "gotta make everything go FAST...."],
+			"Algorithm Optimization",
+			"gotta make everything go FAST...."],
 	aim: "make at least 5 full fledged encryption Hash/Encryption Algorithm"
 }
 ```
