@@ -6,7 +6,7 @@
 - 🥅 2020 Goals: Make more algorithms
 - ⚡ Fun fact: I love make electronic Ambient Music
 
-![Apratim's github stats](https://github-readme-stats.vercel.app/api?username=ApratimR)
+![Apratim's github stats](https://apratimr55.vercel.app/api?username=ApratimR)
 
 
 
