@@ -1,7 +1,7 @@
 # Hi there, I'm Apratim Ray 👋
 ### I'm a Developer,Musician,Studnet!
 
-- 🔭 I’m currently working on a [**THIS**](https://github.com/ApratimR/TLEA)
+- 🔭 I’m currently working on a 👉[**THIS**](https://github.com/ApratimR/TLEA)👈
 - 🌱 I’m always learning everything related to hash and encryption 😎
 - 🥅 2020 Goals: Make more algorithms
 - ⚡ Fun fact: I love make electronic Ambient Music
