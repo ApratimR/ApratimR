@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on a 👉[**THIS**](https://github.com/ApratimR/ASTG)👈
 - 🌱 I’m always learning everything related to hash and encryption 😎
-- 🥅 2020 Goals: Make more algorithms
-- ⚡ Fun fact: I love make electronic Ambient Music
+- 🥅 2021 Goals: Make more algorithms
+- ⚡ Fun fact: I love make electronic Ambient and Chillwave Music
 
 ![Apratim's github stats](https://apratimr55.vercel.app/api?username=ApratimR)
 
