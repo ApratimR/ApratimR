@@ -19,7 +19,6 @@ var Apratim_Ray = {
 	intrest:["Design Encryption and Hash algorithm",
 		"Algorithm Optimization",
 		"gotta make everything go FAST...."],
-	aim: "make at least 5 full fledged encryption Hash/Encryption Algorithm"
 }
 ```
 
