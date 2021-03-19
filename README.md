@@ -42,9 +42,7 @@ var Apratim_Ray = {
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 [twitter]: https://twitter.com/Apratim_Ray
 [youtube]: https://www.youtube.com/channel/UCbx4rrZHpvct5bE_TcDK6Lw
-[instagram]: https://www.instagram.com/ray.maybe/
