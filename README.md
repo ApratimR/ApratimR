@@ -1,9 +1,11 @@
 # Hi there, I'm Apratim Ray 👋
 ### I'm a Developer,Musician,Student!
 
-- 🌱 I’m always learning everything related to hash and encryption
-- 🥅 2021 Goals: Make more algorithms
-- ⚡ Fun fact: I love make electronic Ambient and Chillwave Music
+- 🌐 I'm a software developer from India. 🇮🇳
+- 🌐 I currently live in Maharashtra, India. 🇮🇳
+- 🌱 I’m always learning everything related to data encryption and cryptography related stuff.
+- 🥅 2021 Goals: Make more algorithms.
+- ⚡ Fun fact: I love make electronic Ambient music.
 
 
 
@@ -13,10 +15,10 @@
 ```javascript
 var Apratim_Ray = {
 	code: [Python, JS, HTML, CSS, GO],
-	tools: [VScode, Jupyter, Node, REAPER, Conda, PyPy],
+	tools: [VScode, Django, Node, Conda, Jupyter, REAPER],
 	intrest:["Design Encryption and Hash algorithm",
-		"Algorithm Optimization",
-		"gotta make everything go FAST...."],
+		 "Data security and privacy",
+		 "Making music"],
 }
 ```
 
