@@ -5,7 +5,7 @@
 - 🌐 I currently live in Maharashtra, India. 🇮🇳
 - 🌱 I’m always learning everything related to data encryption and cryptography related stuff.
 - 🥅 2021 Goals: Make more algorithms.
-- ⚡ Fun fact: I love make electronic Ambient music.
+- ⚡ Fun fact: I love make Dreampunk style music.
 
 
 
