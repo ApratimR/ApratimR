@@ -4,7 +4,7 @@
 - 🌐 I'm a software developer from India. 🇮🇳
 - 🌐 I currently live in Maharashtra, India. 🇮🇳
 - 🌱 I’m always learning everything related to data encryption and cryptography related stuff.
-- 🥅 2022 Goals: Complet the Projects I started.
+- 🥅 2023 Goals: Just keep on learning New Tech (Currently leaning Fastapi and Tortoise ORM).
 - ⚡ Fun fact: I love make Dreampunk/Ambient style music.
 
 
