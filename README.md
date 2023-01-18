@@ -22,10 +22,8 @@ var Apratim_Ray = {
 }
 ```
 
-### Connect with me:
+### Follow me:
 [<img align="left" alt="Apratim Ray | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Apratim Ray | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
-[twitter]: https://twitter.com/Apratim_Ray
 [youtube]: https://www.youtube.com/channel/UCbx4rrZHpvct5bE_TcDK6Lw
