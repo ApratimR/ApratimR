@@ -16,8 +16,8 @@
 var Apratim_Ray = {
 	code: [Python, TS, JS, HTML, CSS],
 	tools: [VScode, FastApi, Angular, Node, Conda, Jupyter],
-	intrest:["Data security and privacy",
-		 "New Computing Hardware and Software"
+	intrest:["Data security and Cryptography",
+		 "News regarding latest Computing Hardware and Software"
 		 "Making music"],
 }
 ```
