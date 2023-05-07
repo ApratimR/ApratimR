@@ -3,8 +3,8 @@
 
 - 🌐 I'm a software developer from India. 🇮🇳
 - 🌐 I currently live in Maharashtra, India. 🇮🇳
-- 🌱 I’m always learning everything related to data encryption and cryptography related stuff.
-- 🥅 2023 Goals: Just keep on learning New Tech (Currently Understanding Fastapi and Tortoise ORM).
+- 🌱 Data Encryption and Cryptography is what I specially love to talk about.
+- 🥅 2023 Goals: Just keep on learning New Tech (Currently Understanding Fastapi).
 - ⚡ Fun fact: I love make Dreampunk/Ambient style music.
 
 
