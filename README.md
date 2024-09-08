@@ -3,9 +3,6 @@
 
 - 🌐 I'm a software developer from India. 🇮🇳
 - 🌐 I currently live in Maharashtra, India. 🇮🇳
-- 🌱 Data Encryption and Cryptography is what I specially love to talk about.
-- 🥅 2023 Goals: Just keep on learning New Tech (Currently Understanding Fastapi).
-- ⚡ Fun fact: I love make Dreampunk/Ambient style music.
 
 
 
@@ -15,7 +12,8 @@
 ```javascript
 var Apratim_Ray = {
 	code: [Python, TS, JS, HTML, CSS],
-	tools: [VScode, FastApi, Angular, Node, Conda, Jupyter],
+	tools: [VScode, Node.js, Conda, Jupyter],
+	frameworks: [ Django, Express, Angular]
 	intrest:["Data security and Cryptography",
 		 "News regarding latest Computing Hardware and Software"
 		 "Making music"],
