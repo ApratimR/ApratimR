@@ -12,11 +12,7 @@
 ```javascript
 var Apratim_Ray = {
 	code: [Python, TS, JS, HTML, CSS],
-	tools: [VScode, Node.js, Conda, Jupyter],
-	frameworks: [ Django, Express, Angular]
-	intrest:["Data security and Cryptography",
-		 "News regarding latest Computing Hardware and Software"
-		 "Making music"],
+	tools: [VScode, Node.js, Jupyter],
 }
 ```
 
